@@ -2,9 +2,9 @@
 title: "README.md"
 date: June 18, 2017
 ---
-#Getting and cleaning Data
+## Getting and cleaning Data
 
-#Project description
+## Project description
 
 The goal of this project is to:
 
@@ -19,7 +19,7 @@ The goal of this project is to:
 5- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-##How all of the scripts work and how they are connected
+## How all of the scripts work and how they are connected
 
 - Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset folder
 
